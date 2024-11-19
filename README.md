@@ -7,6 +7,9 @@
  * @FilePath: /gem5-rvm/README.md
  * 
 -->
+# Attention
+This repository is provided for the purpose of double-blind review. It does not contain any information identifying the authors.
+Code will be released upon acceptance.
 # gem5-rvm
 This repo is based on gem5 simulator, to model the risc-v matrix engine.
 
